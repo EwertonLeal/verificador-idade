@@ -1,0 +1,43 @@
+body {
+    height: 500px;
+    background: rgb(85, 216, 233);
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    width: 490px;
+
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.445);
+}
+
+footer {
+    color: white;
+    font-style: italic;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.div {
+    margin: 15px;
+   
+}
+
+#res {
+    text-align: center;
+}
+
+#foto {
+    display: block;
+    margin:  10px auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 360px ;
+}
